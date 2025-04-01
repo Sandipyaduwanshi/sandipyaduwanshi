@@ -51,25 +51,9 @@
 | **POS System** | Inventory Management App | `Java` `SQLite` `Material Design` |
 | **CMS Portal** | PHP Web Dashboard | `PHP` `Bootstrap` `REST API` |
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandipyduwanshi&show_icons=true&theme=dark&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipyduwanshi&layout=compact&theme=dark&hide=python"/>
-</p>
-
----
-
-### 🎯 Currently Working On
-
-- Building **MVVM Architecture** apps
-- Integrating **Payment Gateways** in PHP
-- Learning **Jetpack Compose**
-
----
-
+ 
 ### 💡 Developer Mantra
 
-"Code ➡️ Test ➡️ Debug ➡️ Repeat 🔁"
+Code ➡️ Test ➡️ Debug ➡️ Repeat 🔁
+
+
